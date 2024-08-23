@@ -2,7 +2,7 @@
 automation test framework using java-cucumber-playwright
 
 The Project Report will be generated like this below once you run the tests
-![image](https://github.com/user-attachments/assets/066b3c47-f438-4b4c-bee0-51eb7748fabc)
+
 
 
 ## Prerequisites
